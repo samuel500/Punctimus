@@ -1,5 +1,6 @@
 __pycache__/
 training_checkpoints/
 checkpoints/
+datasets/
 todo
 .ipynb_checkpoints
